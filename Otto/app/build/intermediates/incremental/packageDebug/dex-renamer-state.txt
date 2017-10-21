@@ -1,4 +1,4 @@
-#Sat Oct 21 20:48:36 EEST 2017
-base.0=C\:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Oct 22 00:06:07 EEST 2017
+base.0=/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=C\:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

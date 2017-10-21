@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Mary P\\.android\\build-cache\\ca3959d1fa6aa1d2026fb4aa04835bb9bf736485\\output\\res\\values\\values.xml",
+                    "file": "/home/giannis/.android/build-cache/c946a90c9a3c073b78f54f1506b093635b3c9e63/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\ca3959d1fa6aa1d2026fb4aa04835bb9bf736485\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

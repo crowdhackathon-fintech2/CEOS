@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
-        "source": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

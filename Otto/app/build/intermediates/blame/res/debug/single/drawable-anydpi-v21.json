@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

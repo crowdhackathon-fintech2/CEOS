@@ -1,203 +1,203 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.NFC
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:5:5-62
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:5:5-62
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:5:22-59
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:5:22-59
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [com.simplify:simplify-android:3.0.0] C:\Users\Mary P\.android\build-cache\ed0553fd8d74b4a4a6d20515b780f3556fe5833e\output\AndroidManifest.xml:9:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:21:5-66
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.simplify:simplify-android:3.0.0] /home/giannis/.android/build-cache/10ed29724f9dcf7a974784a0b6b8ff1a43909b41/output/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:6:22-64
 uses-feature#android.hardware.nfc
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:8:5-10:35
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:8:5-10:35
 	android:required
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:10:9-32
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:10:9-32
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:9:9-44
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:9:9-44
 application
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:12:5-57:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mary P\.android\build-cache\36f3d0fd50cd37f71669fd2caf67e77146e40396\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Mary P\.android\build-cache\6c14f8bd7158d0ce5b21c8bc8fc8977ee664e54e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mary P\.android\build-cache\07329e45466a96901d91f4e845cb1b40a09cd1a8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\04373e979bf4c81980ebb330947f21d85a02c321\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\db895505ebefcd6662ad33aeb9fe0f09819f2d46\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Mary P\.android\build-cache\2b061d6e45739cc21a163750a8be23448e42cef1\output\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Mary P\.android\build-cache\766dfdd4f6cc8f2334e9d46d1ed705eb24460610\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Mary P\.android\build-cache\8d9e0662ca13676e74ae5f15ac567f6d31decd30\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mary P\.android\build-cache\e7aec9948d5955097f2bd293267621efcfe34a53\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mary P\.android\build-cache\dfe7e6881b782db5b7cb5490fd29d6fd9c162ad9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mary P\.android\build-cache\82a9da6dd2bfab61a8cb8f2b56ff40c13fad65ef\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mary P\.android\build-cache\a969d997c2942fd7bc01d8fc13372b37fabe90e2\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mary P\.android\build-cache\d8bfefa895cf3f8d934f655b31ce9dee269a8bb0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mary P\.android\build-cache\b469af29e1b11f0b0992e3d9301a3ae830d3c7ed\output\AndroidManifest.xml:29:5-20
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:12:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/giannis/.android/build-cache/15eb3b6c5057480411241941198494f00e700053/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/giannis/.android/build-cache/c5b354cce7f2395a73e2f68b45286f6c7382aa28/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/giannis/.android/build-cache/50c447a5f3f1f4b435714005ddb42f9769252d44/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/giannis/.android/build-cache/2d830cc9145e1edb8c6440fc33c234f1703e2dcc/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/giannis/.android/build-cache/82fa98bf5c570e974865c27d042332274a322a8a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/giannis/.android/build-cache/f34c8c00afec732133b5c496e24b5af5d3327533/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/giannis/.android/build-cache/1d1ce10a69981fb8158fcee0f6f6554efaca35ce/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/giannis/.android/build-cache/0589344e2cde854b153d0d10cd58daaaaf487004/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/giannis/.android/build-cache/a6822436cda413ce129bc0d931ca308062059ef7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/giannis/.android/build-cache/6aa17f64a8fe630e58cda51990a5ef7aa4295ffa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/giannis/.android/build-cache/0ee2e7980089ea8e4b448cc50ab14f86e6c53436/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/giannis/.android/build-cache/9eb8d9a2238de92e6f5174f26c31969595682e19/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:16:9-54
 	android:allowBackup
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:18:9-40
 activity#com.espa.ceos.otto.Welcome
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:19:9-32:20
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:19:9-32:20
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:19:19-42
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:19:19-42
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:23:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:26:13-28:73
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:26:13-28:73
 	android:value
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:28:17-70
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:28:17-70
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:27:17-62
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:27:17-62
 meta-data#com.google.android.gms.wallet.api.enabled
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:29:13-31:40
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:29:13-31:40
 	android:value
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:31:17-37
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:31:17-37
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:30:17-73
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:30:17-73
 activity#com.espa.ceos.otto.Nfc
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:33:9-53:20
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:33:9-53:20
 	android:label
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:36:13-32
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:36:13-32
 	android:supportsRtl
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:37:13-39
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:37:13-39
 	android:allowBackup
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:35:13-39
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:35:13-39
 	android:theme
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:38:13-44
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:38:13-44
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:34:13-32
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:34:13-32
 intent-filter#android.nfc.action.TECH_DISCOVERED
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:39:13-41:29
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:39:13-41:29
 action#android.nfc.action.TECH_DISCOVERED
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:40:25-74
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:40:25-74
 intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:42:13-48:29
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:42:13-48:29
 action#android.nfc.action.NDEF_DISCOVERED
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:43:17-77
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:43:25-74
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:43:25-74
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:45:17-76
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:45:17-76
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:45:27-73
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:45:27-73
 data
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:47:17-55
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:47:17-55
 	android:mimeType
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:47:23-52
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:47:23-52
 meta-data#android.nfc.action.TECH_DISCOVERED
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:50:13-52:59
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:50:13-52:59
 	android:resource
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:52:17-56
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:52:17-56
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:51:17-66
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:51:17-66
 activity#com.espa.ceos.otto.DonationActivity
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:54:9-54
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:54:9-54
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:54:19-51
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:54:19-51
 activity#com.espa.ceos.otto.CharitiesActivity
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:55:9-55
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:55:9-55
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:55:19-52
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:55:19-52
 activity#com.espa.ceos.otto.ChoicesActivity
-ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:56:9-62
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:9-62
 	android:name
-		ADDED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml:56:19-50
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:19-50
 uses-sdk
-INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Mary P\.android\build-cache\36f3d0fd50cd37f71669fd2caf67e77146e40396\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Mary P\.android\build-cache\fbd4391fff5d02982da2252d4806f2802daa22e9\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Mary P\.android\build-cache\6c14f8bd7158d0ce5b21c8bc8fc8977ee664e54e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.simplify:simplify-android:3.0.0] C:\Users\Mary P\.android\build-cache\ed0553fd8d74b4a4a6d20515b780f3556fe5833e\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mary P\.android\build-cache\07329e45466a96901d91f4e845cb1b40a09cd1a8\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\04373e979bf4c81980ebb330947f21d85a02c321\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\db895505ebefcd6662ad33aeb9fe0f09819f2d46\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:9.4.0] C:\Users\Mary P\.android\build-cache\96bcd6fdbe8764fe502c94852803dc8d76764589\output\AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-identity:9.4.0] C:\Users\Mary P\.android\build-cache\2b061d6e45739cc21a163750a8be23448e42cef1\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Mary P\.android\build-cache\766dfdd4f6cc8f2334e9d46d1ed705eb24460610\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Mary P\.android\build-cache\8d9e0662ca13676e74ae5f15ac567f6d31decd30\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mary P\.android\build-cache\e7aec9948d5955097f2bd293267621efcfe34a53\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mary P\.android\build-cache\dfe7e6881b782db5b7cb5490fd29d6fd9c162ad9\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mary P\.android\build-cache\82a9da6dd2bfab61a8cb8f2b56ff40c13fad65ef\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mary P\.android\build-cache\a969d997c2942fd7bc01d8fc13372b37fabe90e2\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mary P\.android\build-cache\d8bfefa895cf3f8d934f655b31ce9dee269a8bb0\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mary P\.android\build-cache\b469af29e1b11f0b0992e3d9301a3ae830d3c7ed\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/giannis/.android/build-cache/d6cb7f74df5cafe47c786682c711f98f276de6e8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/giannis/.android/build-cache/15eb3b6c5057480411241941198494f00e700053/output/AndroidManifest.xml:20:5-44
+MERGED from [com.simplify:simplify-android:3.0.0] /home/giannis/.android/build-cache/10ed29724f9dcf7a974784a0b6b8ff1a43909b41/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/giannis/.android/build-cache/c5b354cce7f2395a73e2f68b45286f6c7382aa28/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/giannis/.android/build-cache/50c447a5f3f1f4b435714005ddb42f9769252d44/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/giannis/.android/build-cache/2d830cc9145e1edb8c6440fc33c234f1703e2dcc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/giannis/.android/build-cache/82fa98bf5c570e974865c27d042332274a322a8a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/giannis/.android/build-cache/f34c8c00afec732133b5c496e24b5af5d3327533/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/giannis/.android/build-cache/1d1ce10a69981fb8158fcee0f6f6554efaca35ce/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/giannis/.android/build-cache/0589344e2cde854b153d0d10cd58daaaaf487004/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/giannis/.android/build-cache/a6822436cda413ce129bc0d931ca308062059ef7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/giannis/.android/build-cache/6aa17f64a8fe630e58cda51990a5ef7aa4295ffa/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/giannis/.android/build-cache/0ee2e7980089ea8e4b448cc50ab14f86e6c53436/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/giannis/.android/build-cache/9eb8d9a2238de92e6f5174f26c31969595682e19/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Mary P\Desktop\Otto\app\src\main\AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
+		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Mary P\.android\build-cache\fbd4391fff5d02982da2252d4806f2802daa22e9\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Mary P\.android\build-cache\6c14f8bd7158d0ce5b21c8bc8fc8977ee664e54e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Mary P\.android\build-cache\07329e45466a96901d91f4e845cb1b40a09cd1a8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\04373e979bf4c81980ebb330947f21d85a02c321\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Mary P\.android\build-cache\db895505ebefcd6662ad33aeb9fe0f09819f2d46\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Mary P\.android\build-cache\e7aec9948d5955097f2bd293267621efcfe34a53\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Mary P\.android\build-cache\dfe7e6881b782db5b7cb5490fd29d6fd9c162ad9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Mary P\.android\build-cache\82a9da6dd2bfab61a8cb8f2b56ff40c13fad65ef\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Mary P\.android\build-cache\a969d997c2942fd7bc01d8fc13372b37fabe90e2\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Mary P\.android\build-cache\d8bfefa895cf3f8d934f655b31ce9dee269a8bb0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Mary P\.android\build-cache\b469af29e1b11f0b0992e3d9301a3ae830d3c7ed\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/giannis/.android/build-cache/d6cb7f74df5cafe47c786682c711f98f276de6e8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/giannis/.android/build-cache/15eb3b6c5057480411241941198494f00e700053/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/giannis/.android/build-cache/c5b354cce7f2395a73e2f68b45286f6c7382aa28/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/giannis/.android/build-cache/50c447a5f3f1f4b435714005ddb42f9769252d44/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/giannis/.android/build-cache/1d1ce10a69981fb8158fcee0f6f6554efaca35ce/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/giannis/.android/build-cache/0589344e2cde854b153d0d10cd58daaaaf487004/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/giannis/.android/build-cache/a6822436cda413ce129bc0d931ca308062059ef7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/giannis/.android/build-cache/6aa17f64a8fe630e58cda51990a5ef7aa4295ffa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/giannis/.android/build-cache/0ee2e7980089ea8e4b448cc50ab14f86e6c53436/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/giannis/.android/build-cache/9eb8d9a2238de92e6f5174f26c31969595682e19/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Mary P\.android\build-cache\13ce7f954552596c08e65684ff15c366ed3685d8\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:20:5-78
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:20:22-76
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:22:5-24:33
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:22:5-24:33
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:23:8-40
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:23:8-40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Mary P\.android\build-cache\5378fc46c75d8e08ecab2e1b2608734388f01319\output\AndroidManifest.xml:24:8-31
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:24:8-31
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:20:19-85

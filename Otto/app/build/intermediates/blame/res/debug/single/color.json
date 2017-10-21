@@ -1,114 +1,226 @@
 [
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\color\\wallet_primary_text_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\color\\design_error.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/color/common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/color/switch_thumb_material_light.xml"
     }
 ]

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout-v21\\notification_action.xml"
     }
 ]

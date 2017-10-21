@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+        "outputFile": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\values-en-rCA\\values.xml",
+                    "file": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\96bcd6fdbe8764fe502c94852803dc8d76764589\\output\\res\\values-en-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 103,
+                        "endOffset": 391
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/res/values-en-rCA/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
