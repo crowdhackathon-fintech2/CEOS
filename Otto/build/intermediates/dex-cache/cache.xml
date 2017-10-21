@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.android\build-cache\8d9e0662ca13676e74ae5f15ac567f6d31decd30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\classes_d0fe4fef487c71e8bf06d005a919c65d91e3729f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.1\c8d96f6fd2bcc179c312da33ee670a71188cc60d\httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.1_03da6bcab3d95694c6b933aa3c91aa9ab77f777a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.android\build-cache\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\classes_62c71e3276e3ddc3cb75784f5294388693cd41b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.android\build-cache\2b061d6e45739cc21a163750a8be23448e42cef1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\classes_70712786852cfd068fa2da0eb502e2aa833705cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\gson-2.7_3eb9f1ebc4c0b8a8c7c6c4fc6ee392b64c0aaea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mary P\.android\build-cache\96bcd6fdbe8764fe502c94852803dc8d76764589\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Mary P\Desktop\Otto\app\build\intermediates\pre-dexed\debug\classes_ee9b6950ab825c837aa60f5958e2d3bd16865806.jar" />
+    </item>
+
+</items>
