@@ -1,0 +1,112 @@
+2017-10-21 18:14:52.997	Initialized. Chain height: -1, Txs: 0
+2017-10-21 18:14:53.062	Entity (00000101, 0000000000000000000000000000000000000000) added successfully
+2017-10-21 18:14:53.062	Entity (00000201, 0000000000000000000000000000000000000000) added successfully
+2017-10-21 18:14:53.062	Entity (00000102, 0000000000000000000000000000000000000000) added successfully
+2017-10-21 18:14:53.062	Entity (00000202, 0000000000000000000000000000000000000000) added successfully
+2017-10-21 18:14:53.062	Entity (00000103, b829ec1d9e48154f8672d65a9162b81020f38057) added successfully
+2017-10-21 18:14:53.062	Entity (00000203, b829ec1d9e48154f8672d65a9162b81020f38057) added successfully
+2017-10-21 18:14:53.380	Entity (00000105, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.380	Entity (00000205, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.380	Entity (00000106, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.380	Entity (00000206, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.380	Entity (00000107, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.380	Entity (00000207, 00000000edb1a8cc30f8b12948adf739c9b0f1ca) added successfully
+2017-10-21 18:14:53.658	NewBlock 0, Txs: 0, Rows: 0
+2017-10-21 18:14:54.018	NewTx 47cfb631fd407cb1c2c57ee937718caa3f80dd1a56667bcbdc77db080d2f23b2, block 1, flags 00000006, import 0
+2017-10-21 18:14:54.082	NewBlock 1, Txs: 1, Rows: 6
+2017-10-21 18:14:54.384	NewBlock 2, Txs: 0, Rows: 0
+2017-10-21 18:15:06.819	NewBlock 3, Txs: 0, Rows: 0
+2017-10-21 18:15:20.355	NewBlock 4, Txs: 0, Rows: 0
+2017-10-21 18:15:33.958	NewBlock 5, Txs: 0, Rows: 0
+2017-10-21 18:15:52.996	NewBlock 6, Txs: 0, Rows: 0
+2017-10-21 18:16:15.322	NewBlock 7, Txs: 0, Rows: 0
+2017-10-21 18:16:25.546	NewBlock 8, Txs: 0, Rows: 0
+2017-10-21 18:16:41.271	NewBlock 9, Txs: 0, Rows: 0
+2017-10-21 18:17:03.896	NewBlock 10, Txs: 0, Rows: 0
+2017-10-21 18:17:19.733	NewBlock 11, Txs: 0, Rows: 0
+2017-10-21 18:17:36.562	NewBlock 12, Txs: 0, Rows: 0
+2017-10-21 18:17:52.623	NewBlock 13, Txs: 0, Rows: 0
+2017-10-21 18:17:57.414	NewBlock 14, Txs: 0, Rows: 0
+2017-10-21 18:18:18.664	NewBlock 15, Txs: 0, Rows: 0
+2017-10-21 18:18:31.111	NewBlock 16, Txs: 0, Rows: 0
+2017-10-21 18:18:38.069	NewBlock 17, Txs: 0, Rows: 0
+2017-10-21 18:18:54.929	NewBlock 18, Txs: 0, Rows: 0
+2017-10-21 18:19:15.055	NewBlock 19, Txs: 0, Rows: 0
+2017-10-21 18:19:27.893	NewBlock 20, Txs: 0, Rows: 0
+2017-10-21 18:19:49.231	NewTx c0c3061e164fa003e03295a43b74f29450756f7dcf7277da1d9c44fb2bd0d49c, block -1, flags 00030004, import 0
+2017-10-21 18:19:54.905	NewTx 8300cea23f844554e1ca830b4e2d48c36fbcb09ac02f2a7420a7008beb712fda, block -1, flags 00030004, import 0
+2017-10-21 18:20:04.537	UpdateTx c0c3061e16, block 21, flags 00030004, import 0
+2017-10-21 18:20:04.537	UpdateTx 8300cea23f, block 21, flags 00030004, import 0
+2017-10-21 18:20:04.592	NewBlock 21, Txs: 2, Rows: 12
+2017-10-21 18:20:04.935	NewBlock 22, Txs: 0, Rows: 0
+2017-10-21 18:20:14.071	NewBlock 23, Txs: 0, Rows: 0
+2017-10-21 18:20:34.223	NewBlock 24, Txs: 0, Rows: 0
+2017-10-21 18:20:53.282	NewBlock 25, Txs: 0, Rows: 0
+2017-10-21 18:21:01.319	NewBlock 26, Txs: 0, Rows: 0
+2017-10-21 18:21:23.700	NewBlock 27, Txs: 0, Rows: 0
+2017-10-21 18:21:26.280	NewBlock 28, Txs: 0, Rows: 0
+2017-10-21 18:21:48.642	NewBlock 29, Txs: 0, Rows: 0
+2017-10-21 18:21:53.854	NewTx 7f0dca0e9aa6d31010204135a575e3e1df7e1815a320a069a981134278a08852, block -1, flags 00030004, import 0
+2017-10-21 18:22:07.656	UpdateTx 7f0dca0e9a, block 30, flags 00030004, import 0
+2017-10-21 18:22:07.701	NewBlock 30, Txs: 1, Rows: 6
+2017-10-21 18:22:08.405	NewTx 3c55ae327c61cea08ce5e10d6303d45ec72fd6e1aec681f33a90920b0a9348a9, block -1, flags 00030004, import 0
+2017-10-21 18:22:21.212	UpdateTx 3c55ae327c, block 31, flags 00030004, import 0
+2017-10-21 18:22:21.268	NewBlock 31, Txs: 1, Rows: 6
+2017-10-21 18:22:30.457	NewBlock 32, Txs: 0, Rows: 0
+2017-10-21 18:22:42.871	NewBlock 33, Txs: 0, Rows: 0
+2017-10-21 18:22:54.401	NewTx 52a773116a0eecfc58701f35c384701a95098e954603d42794aea9e9b0c649f1, block -1, flags 00030004, import 0
+2017-10-21 18:23:10.738	UpdateTx 52a773116a, block 34, flags 00030004, import 0
+2017-10-21 18:23:10.794	NewBlock 34, Txs: 1, Rows: 6
+2017-10-21 18:23:10.949	Entity (00000103, 3413f5210bb79633f37c454e21d1d566171ceedc) added successfully
+2017-10-21 18:23:10.949	Entity (00000203, 3413f5210bb79633f37c454e21d1d566171ceedc) added successfully
+2017-10-21 18:23:18.859	NewBlock 35, Txs: 0, Rows: 0
+2017-10-21 18:23:37.932	NewBlock 36, Txs: 0, Rows: 0
+2017-10-21 18:23:55.925	NewBlock 37, Txs: 0, Rows: 0
+2017-10-21 18:24:07.284	NewBlock 38, Txs: 0, Rows: 0
+2017-10-21 18:24:16.443	NewBlock 39, Txs: 0, Rows: 0
+2017-10-21 18:24:41.005	NewBlock 40, Txs: 0, Rows: 0
+2017-10-21 18:24:46.908	NewBlock 41, Txs: 0, Rows: 0
+2017-10-21 18:25:10.378	NewBlock 42, Txs: 0, Rows: 0
+2017-10-21 18:25:26.126	NewBlock 43, Txs: 0, Rows: 0
+2017-10-21 18:25:36.398	NewBlock 44, Txs: 0, Rows: 0
+2017-10-21 18:25:54.357	NewBlock 45, Txs: 0, Rows: 0
+2017-10-21 18:26:07.938	NewBlock 46, Txs: 0, Rows: 0
+2017-10-21 18:26:23.675	NewBlock 47, Txs: 0, Rows: 0
+2017-10-21 18:26:41.612	NewBlock 48, Txs: 0, Rows: 0
+2017-10-21 18:26:59.585	NewBlock 49, Txs: 0, Rows: 0
+2017-10-21 18:27:14.245	NewBlock 50, Txs: 0, Rows: 0
+2017-10-21 18:27:26.715	NewBlock 51, Txs: 0, Rows: 0
+2017-10-21 18:27:38.097	NewBlock 52, Txs: 0, Rows: 0
+2017-10-21 18:28:00.971	NewBlock 53, Txs: 0, Rows: 0
+2017-10-21 18:28:17.807	NewBlock 54, Txs: 0, Rows: 0
+2017-10-21 18:28:33.577	NewBlock 55, Txs: 0, Rows: 0
+2017-10-21 18:28:46.069	NewBlock 56, Txs: 0, Rows: 0
+2017-10-21 18:28:56.316	NewBlock 57, Txs: 0, Rows: 0
+2017-10-21 18:29:18.656	NewBlock 58, Txs: 0, Rows: 0
+2017-10-21 18:29:33.293	NewBlock 59, Txs: 0, Rows: 0
+2017-10-21 18:43:27.884	NewTx 4cc721950e9ce09bc8be432c225c94c04e38cab74582b0f99915f12e772a0bca, block -1, flags 00030004, import 0
+2017-10-21 18:43:46.311	UpdateTx 4cc721950e, block 60, flags 00030004, import 0
+2017-10-21 18:43:46.366	NewBlock 60, Txs: 1, Rows: 6
+2017-10-21 18:43:52.243	NewBlock 61, Txs: 0, Rows: 0
+2017-10-21 18:43:53.938	NewBlock 62, Txs: 0, Rows: 0
+2017-10-21 18:44:03.076	NewBlock 63, Txs: 0, Rows: 0
+2017-10-21 18:44:07.813	NewBlock 64, Txs: 0, Rows: 0
+2017-10-21 18:44:16.951	NewBlock 65, Txs: 0, Rows: 0
+2017-10-21 18:44:22.855	NewBlock 66, Txs: 0, Rows: 0
+2017-10-21 18:44:26.501	NewBlock 67, Txs: 0, Rows: 0
+2017-10-21 18:44:30.182	NewBlock 68, Txs: 0, Rows: 0
+2017-10-21 18:44:39.340	NewBlock 69, Txs: 0, Rows: 0
+2017-10-21 18:44:40.800	NewBlock 70, Txs: 0, Rows: 0
+2017-10-21 18:50:12.517	NewTx 37a39b08148487e6dd7c158e2a7ad6a8f442542b00b0494d9eeba53f89c3d85d, block -1, flags 00030004, import 0
+2017-10-21 18:50:26.591	UpdateTx 37a39b0814, block 71, flags 00030004, import 0
+2017-10-21 18:50:26.635	NewBlock 71, Txs: 1, Rows: 6
+2017-10-21 18:50:41.295	NewBlock 72, Txs: 0, Rows: 0
+2017-10-21 18:50:54.900	NewBlock 73, Txs: 0, Rows: 0
+2017-10-21 18:51:09.551	NewBlock 74, Txs: 0, Rows: 0
+2017-10-21 18:51:16.543	NewBlock 75, Txs: 0, Rows: 0
+2017-10-21 18:51:22.435	NewBlock 76, Txs: 0, Rows: 0
+2017-10-21 18:51:32.704	NewBlock 77, Txs: 0, Rows: 0
+2017-10-21 18:51:38.573	NewBlock 78, Txs: 0, Rows: 0
+2017-10-21 18:51:42.222	NewBlock 79, Txs: 0, Rows: 0
+2017-10-21 18:51:48.213	NewBlock 80, Txs: 0, Rows: 0
+2017-10-21 18:51:58.505	NewBlock 81, Txs: 0, Rows: 0

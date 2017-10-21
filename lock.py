@@ -15,7 +15,7 @@ asset_balance = get_asset_balance(asset_name)
 	
 while asset_balance >= 0:
 	print 'Asset {} is locked'.format(asset_name)
-	time.sleep(1)
+	time.blockchain(1)
 	asset_balance = get_asset_balance(asset_name)
 		
 print 'Asset {} was purchased with txid'.format(asset_name, txid)

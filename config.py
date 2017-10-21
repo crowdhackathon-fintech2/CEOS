@@ -10,8 +10,35 @@ rpc_user='multichainrpc'
 rpc_password='EreNfQzTtSBVr3M3R4Mnmk7LogtK9CLLkDtBesBjF3eS'
 port = '4352'
 
-rpc_connection = AuthServiceProxy("http://%s:%s@localhost:%s"%(rpc_user, rpc_password, port))
+blockchain = AuthServiceProxy("http://%s:%s@localhost:%s"%(rpc_user, rpc_password, port))
 
-server_address = rpc_connection.getaddresses()[0] 
+server_address = blockchain.getaddresses()[0] 
 client_address = '1KG161HAdg9jXihRcq64cyZgJWfpZPEPJBbqTg'
+
+def checkoutGetter():
+	return firebase.get('/checkout',None)['value'] == 1
+			
+def checkoutSetter(val):
+	firebase.put('/','checkout',{'value':val})
+	return
+		
+def itemsGetter():
+	temp=firebase.get('/items',None)
+	return temp.values()
+
+def itemsKeys():
+	temp=firebase.get('/items',None)
+	return temp.keys()
+
+def proceedSetter(val):
+	firebase.put('/','proceed',{'value':val})
+	return
+	
+def resetDb():
+	items=itemsKeys()
+	for i in items:
+		firebase.delete('/items',i)
+	proceedSetter(1)
+	checkoutSetter(0)
+
 

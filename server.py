@@ -1,7 +1,6 @@
 #server-side script
 from config import *
 
-
 def get_current_purchased_asset():
 	return str(firebase.get('/current_asset', None))
 	
@@ -11,18 +10,6 @@ def post_last_transaction():
 def pop_last_txid():
 	pass
 	
-def set_proceed(val):
-	pass
-	
-def set_checkout(val):
-	pass	
-		
-def get_checkout():
-	pass
-
-def get_assets():
-	pass
-
 global products
 products = {
 	'tshirt1' : 20.40,
@@ -34,34 +21,33 @@ transaction_counter = 1
 
 try:
 	for product in products.keys():
-		rpc_connection.issue(server_address, product, products[product])
+		blockchain.issue(server_address, product, products[product])
 except:		
 	print 'Products already initialized'
 finally:
 	global assets
-	assets = rpc_connection.listassets()
+	assets = blockchain.listassets()
 	print assets
 	
-def transaction_validator(rpc_connection): 
+def transaction_validator(blockchain): 
 	prev_asset = get_current_purchased_asset()
-	prev_wallettransactions = rpc_connection.listwallettransactions()
+	prev_wallettransactions = blockchain.listwallettransactions()
 	
-
 	while True:
-		while get_checkout():
-			assets = get_assets()
+		while checkoutGetter():
+			assets = itemsGetter()
 			for curr_asset in assets:
 				try:
-					rpc_connection.sendasset(client_address, curr_asset, products[curr_asset])
+					blockchain.sendasset(client_address, curr_asset, products[curr_asset])
 				except:
-					except:
 					print 'Error'
 				finally:
-					print rpc_connection.gettotalbalances()
+					print blockchain.gettotalbalances()
 				
 				# validate
+				# check last n transactions
 				number_of_transactions = len(assets)
-				curr_wallettransactions = rpc_connection.listwallettransactions()
+				curr_wallettransactions = blockchain.listwallettransactions()
 				i = -1
 				tx = curr_wallettransactions[-i]
 				while abs(i) <= n:
@@ -76,29 +62,25 @@ def transaction_validator(rpc_connection):
 						print 'something went wrong'
 						break
 					i -= 1 
-				set_proceed(True)
-				set_checkout(False)
-				delete_assets()
+				resetDb()
 				
-				time.sleep(5)
-				set_proceed(False)
 				
 		time.sleep(1)
 	
 	
-def checker(rpc_connection):
+def checker(blockchain):
 	
 	while True:
 		curr_txid = pop_last_txid()
 		if curr_txid != '':
-			curr_transactions = map(lambda x : x['txid'], rpc_connection.listwallettransactions())
+			curr_transactions = map(lambda x : x['txid'], blockchain.listwallettransactions())
 			if curr_txid not in curr_transactions:
 				print 'Something was stolen here'
 			else:
 				continue
 		time.sleep(1)	
 		
-transaction_validator(rpc_connection)
+transaction_validator(blockchain)
 		
 	
 		
