@@ -1,10 +1,6 @@
 #server-side script
-from bitcoinrpc.authproxy import AuthServiceProxy, JSONRPCException
-import time, threading
-from firebase import firebase
+from config import *
 
-global firebase
-firebase = firebase.FirebaseApplication('https://shop-n-out.firebaseio.com', None)
 
 def get_current_purchased_asset():
 	return str(firebase.get('/current_asset', None))
@@ -14,25 +10,23 @@ def post_last_transaction():
 
 def pop_last_txid():
 	pass
+	
+def set_proceed(val):
+	pass
+	
+def set_checkout(val):
+	pass	
+		
+def get_checkout():
+	pass
 
-print get_current_purchased_asset()
-
-#init RPC conn
-rpc_user='multichainrpc'
-rpc_password='EreNfQzTtSBVr3M3R4Mnmk7LogtK9CLLkDtBesBjF3eS'
-port = '4352'
-
-rpc_connection = AuthServiceProxy("http://%s:%s@localhost:%s"%(rpc_user, rpc_password, port))
-
-server_address = rpc_connection.getaddresses()[0] 
-client_address = '1KG161HAdg9jXihRcq64cyZgJWfpZPEPJBbqTg'
+def get_assets():
+	pass
 
 global products
 products = {
-	'test1' : 1000.0,
-	'test2' : 1000.0,
-	'tshirt' : 99.0,
-	'shirt' : 10.0
+	'tshirt1' : 20.40,
+	'tshirt2' : 25.20
 }
 
 global transaction_counter
@@ -54,35 +48,42 @@ def transaction_validator(rpc_connection):
 	
 
 	while True:
-		curr_asset = get_current_purchased_asset()
-		
-		print curr_asset
-		if curr_asset != prev_asset:
-			try:
-				print '{} {}'.format(curr_asset, products[curr_asset])
-				rpc_connection.sendasset(client_address, curr_asset, products[curr_asset])
-			except:
-				print 'Error'
-				break
-			finally:
-				print rpc_connection.gettotalbalances()
-			current_wallettransactions = rpc_connection.listwallettransactions()
-			
-			prev_trans = prev_wallettransactions[-1]
-			current_trans =  current_wallettransactions[-1]
-			
-			# check validity:
-			if prev_trans != current_trans and current_trans['valid']:
-				print 'Transaction validated'
-				print current_trans
-				print 'Posting to firebase'
-				post_last_transaction()
-			
-			prev_wallettransactions = current_wallettransactions
-			transaction_counter += 1
-		
-		time.sleep(1)	
-
+		while get_checkout():
+			assets = get_assets()
+			for curr_asset in assets:
+				try:
+					rpc_connection.sendasset(client_address, curr_asset, products[curr_asset])
+				except:
+					except:
+					print 'Error'
+				finally:
+					print rpc_connection.gettotalbalances()
+				
+				# validate
+				number_of_transactions = len(assets)
+				curr_wallettransactions = rpc_connection.listwallettransactions()
+				i = -1
+				tx = curr_wallettransactions[-i]
+				while abs(i) <= n:
+					tx = curr_transactions[-i]
+					if tx['valid']:	
+						print 'Transaction validated'
+						print current_trans
+						print 'Posting to firebase'
+						post_last_transaction()
+						transaction_counter += 1
+					else:
+						print 'something went wrong'
+						break
+					i -= 1 
+				set_proceed(True)
+				set_checkout(False)
+				delete_assets()
+				
+				time.sleep(5)
+				set_proceed(False)
+				
+		time.sleep(1)
 	
 	
 def checker(rpc_connection):
