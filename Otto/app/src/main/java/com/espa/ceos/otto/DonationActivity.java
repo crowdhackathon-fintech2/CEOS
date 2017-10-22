@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -21,7 +22,7 @@ public class DonationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_donation);
         TextView text1 = (TextView)findViewById(R.id.text1);
-        Button yesbutton= (Button)findViewById(R.id.yesbutton);
+        ImageButton yesbutton= (ImageButton)findViewById(R.id.yesbutton);
         Button nobutton= (Button)findViewById(R.id.nobutton);
 
 

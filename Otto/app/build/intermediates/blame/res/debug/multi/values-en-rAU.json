@@ -823,25 +823,6 @@
                         "endOffset": 2147
                     }
                 }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2152,
-                    "endColumn": 103,
-                    "endOffset": 2251
-                },
-                "from": {
-                    "file": "/home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/res/values-en-rAU/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 292,
-                        "endColumn": 103,
-                        "endOffset": 391
-                    }
-                }
             }
         ]
     }

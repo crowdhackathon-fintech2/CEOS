@@ -15,9 +15,10 @@
         android:layout_marginRight="14dp"
         android:layout_marginEnd="14dp" />
 
-    <Button
+    <ImageButton
         android:id="@+id/yesbutton"
-        android:layout_width="96dp"
+        android:src="@drawable/donate"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Yes"
         android:layout_below="@+id/text1"

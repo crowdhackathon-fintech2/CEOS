@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:1-59:12
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:1-60:12
 	package
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
@@ -20,7 +20,9 @@ ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidMan
 uses-permission#android.permission.INTERNET
 ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:6:5-67
 MERGED from [com.simplify:simplify-android:3.0.0] /home/giannis/.android/build-cache/10ed29724f9dcf7a974784a0b6b8ff1a43909b41/output/AndroidManifest.xml:9:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:6:22-64
 uses-feature#android.hardware.nfc
@@ -30,18 +32,24 @@ ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:9:9-44
 application
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:12:5-57:19
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:12:5-58:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/giannis/.android/build-cache/15eb3b6c5057480411241941198494f00e700053/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/giannis/.android/build-cache/c5b354cce7f2395a73e2f68b45286f6c7382aa28/output/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/giannis/.android/build-cache/50c447a5f3f1f4b435714005ddb42f9769252d44/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/giannis/.android/build-cache/2d830cc9145e1edb8c6440fc33c234f1703e2dcc/output/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/giannis/.android/build-cache/82fa98bf5c570e974865c27d042332274a322a8a/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/giannis/.android/build-cache/f34c8c00afec732133b5c496e24b5af5d3327533/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-core:9.0.1] /home/giannis/.android/build-cache/9eab33825c1b7602ed646ddf3dc4f43155004996/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-auth:9.0.1] /home/giannis/.android/build-cache/acf5fcd307607b27604ed4d92365619534ad0e58/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.1] /home/giannis/.android/build-cache/73b6af50f6c65e9b5dfb42d4c240fb94e153b4a5/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] /home/giannis/.android/build-cache/9709816e97252a44f63b92a8dd64ecc41bb81487/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] /home/giannis/.android/build-cache/944ce5bf97f10d5acb4de240edd2016203230163/output/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:25.3.1] /home/giannis/.android/build-cache/1d1ce10a69981fb8158fcee0f6f6554efaca35ce/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] /home/giannis/.android/build-cache/0589344e2cde854b153d0d10cd58daaaaf487004/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/giannis/.android/build-cache/a6822436cda413ce129bc0d931ca308062059ef7/output/AndroidManifest.xml:29:5-20
@@ -133,9 +141,13 @@ ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:55:19-52
 activity#com.espa.ceos.otto.ChoicesActivity
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:9-62
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:9-53
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:19-50
+activity#com.espa.ceos.otto.CheckoutActivity
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:57:9-63
+	android:name
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:57:19-51
 uses-sdk
 INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:5:5-7:41
@@ -146,12 +158,23 @@ MERGED from [com.simplify:simplify-android:3.0.0] /home/giannis/.android/build-c
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/giannis/.android/build-cache/c5b354cce7f2395a73e2f68b45286f6c7382aa28/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/giannis/.android/build-cache/50c447a5f3f1f4b435714005ddb42f9769252d44/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /home/giannis/.android/build-cache/f75fc25aa263e2d5d2cbc18a511e91f447d9e3bf/output/AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/giannis/.android/build-cache/2d830cc9145e1edb8c6440fc33c234f1703e2dcc/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/giannis/.android/build-cache/82fa98bf5c570e974865c27d042332274a322a8a/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/giannis/.android/build-cache/f34c8c00afec732133b5c496e24b5af5d3327533/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.1] /home/giannis/.android/build-cache/9eab33825c1b7602ed646ddf3dc4f43155004996/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-database:9.0.1] /home/giannis/.android/build-cache/09224f57ad7031974dce093bf8dbadd679b74a5d/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.1] /home/giannis/.android/build-cache/d4ae90dec57619f3de582ccf416f19fa00cf1973/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.1] /home/giannis/.android/build-cache/acf5fcd307607b27604ed4d92365619534ad0e58/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.1] /home/giannis/.android/build-cache/73b6af50f6c65e9b5dfb42d4c240fb94e153b4a5/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.1] /home/giannis/.android/build-cache/31ab4d44d49c4b6b197d6a641f028bb2e00e4ef4/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.1] /home/giannis/.android/build-cache/3402c5af370217cd53737372838d7b3c2d1a1a7f/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage:9.0.1] /home/giannis/.android/build-cache/f0733b1f13a88580860a42972bc182d2ab4768b4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.1] /home/giannis/.android/build-cache/707b0aeb84fe632a11ac82979361e974f265c1b1/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] /home/giannis/.android/build-cache/9709816e97252a44f63b92a8dd64ecc41bb81487/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] /home/giannis/.android/build-cache/944ce5bf97f10d5acb4de240edd2016203230163/output/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:25.3.1] /home/giannis/.android/build-cache/1d1ce10a69981fb8158fcee0f6f6554efaca35ce/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /home/giannis/.android/build-cache/0589344e2cde854b153d0d10cd58daaaaf487004/output/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/giannis/.android/build-cache/a6822436cda413ce129bc0d931ca308062059ef7/output/AndroidManifest.xml:21:5-23:63
@@ -184,20 +207,128 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/giannis/.android/b
 	android:name
 		ADDED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:20:5-78
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:20:22-76
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:22:5-24:33
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:23:8-40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/giannis/.android/build-cache/b60d031123ccab7df211ed4d176bec21e0e67145/output/AndroidManifest.xml:24:8-31
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:20:9-22:45
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.1] /home/giannis/.android/build-cache/3a60c63e06115ea004465d986f23bfd1db123a93/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:38:11-33
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:39:11-35
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.firebase:firebase-analytics:9.0.1] /home/giannis/.android/build-cache/d15a19e197c53b5f5523717d9683639019c6d411/output/AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.1] /home/giannis/.android/build-cache/33f49764c774f934dc363d48ad886f7732aac2ee/output/AndroidManifest.xml:55:25-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.1] /home/giannis/.android/build-cache/29020caf646238e47927ef3b8268d701551f5013/output/AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/giannis/.android/build-cache/22f1d664538672dee226173ad23a671fbcea0a12/output/AndroidManifest.xml:9:13-58

@@ -228,6 +228,10 @@
         "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/activity_checkout.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/layout/activity_checkout.xml"
+    },
+    {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },

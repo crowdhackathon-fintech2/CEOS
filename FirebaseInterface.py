@@ -8,15 +8,12 @@ def checkoutSetter(val):
 	return
 def itemsGetter():
 	temp=firebase.get('/items',None)
-	return temp.values()
-def itemsKeys():
-	temp=firebase.get('/items',None)
 	return temp.keys()
 def proceedSetter(val):
 	firebase.put('/','proceed',{'value':val})
 	return
 def resetDb():
-	items=itemsKeys()
+	items=itemsGetter()
 	for i in items:
 		firebase.delete('/items',i)
 	proceedSetter(1)

@@ -33,7 +33,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
@@ -56,12 +56,12 @@
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\cb4f7c84ef6a2d64b41e7f8fc79f15c1b19cedc4\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/background2.png",
@@ -85,7 +85,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
@@ -97,7 +97,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
@@ -120,12 +120,12 @@
         "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\13ce7f954552596c08e65684ff15c366ed3685d8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
@@ -161,7 +161,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
@@ -309,7 +309,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_plus_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
@@ -361,7 +361,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_plus_signin_btn_text_light.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_plus_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -393,7 +393,7 @@
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/home/giannis/.android/build-cache/dfff7ed54261139161c17271ee4484e561587596/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/home/giannis/.android/build-cache/82ae1be8ab7249e8189abb2b68ff040405218d6a/output/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
@@ -406,6 +406,10 @@
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\Desktop\\Otto\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/donate.png",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/drawable/donate.png"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",

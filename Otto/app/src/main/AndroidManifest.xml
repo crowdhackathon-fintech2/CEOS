@@ -53,7 +53,8 @@
         </activity>
         <activity android:name=".DonationActivity" />
         <activity android:name=".CharitiesActivity" />
-        <activity android:name=".ChoicesActivity"></activity>
+        <activity android:name=".ChoicesActivity" />
+        <activity android:name=".CheckoutActivity"></activity>
     </application>
 
 </manifest>

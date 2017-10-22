@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594789606672",
+    "firebase_url": "https://shop-n-out.firebaseio.com",
+    "project_id": "shop-n-out",
+    "storage_bucket": "shop-n-out.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594789606672:android:3de7980ae6832ebd",
+        "android_client_info": {
+          "package_name": "com.espa.ceos.otto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594789606672-5i877m12tg7hm8ef3qccttvha6qgr6gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTm_kc42ft0mCuwkOaUjqxeZcpVdIoM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -147,11 +147,12 @@ public class Welcome extends AppCompatActivity {
 //
 //            }
 //        }.execute();
-        Intent i3 = new Intent(getApplicationContext(), DonationActivity.class);
-        double i = 20.5;
-        i3.putExtra("PAYMENT", i);
-        startActivity(i3);
-
+//        Intent i3 = new Intent(getApplicationContext(), DonationActivity.class);
+//        double i = 20.5;
+//        i3.putExtra("PAYMENT", i);
+//        startActivity(i3);
+//                Intent intent = new Intent(getApplicationContext(), CheckoutActivity.class);
+//                startActivity(intent);
 
 
 

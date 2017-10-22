@@ -9,6 +9,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 import android.app.Activity;
 import android.app.PendingIntent;
@@ -26,20 +27,29 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
 import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Nfc extends AppCompatActivity {
     public static final String TAG = "NfcDemo";
     private NfcAdapter mNfcAdapter;
     private TextView mTextView;
+    public Button mButton;
     public static final String MIME_TEXT_PLAIN = "text/plain";
+    private DatabaseReference mDatabase;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_nfc);
+        mDatabase = FirebaseDatabase.getInstance().getReference();
         mTextView = (TextView) findViewById(R.id.txt);
         mNfcAdapter = NfcAdapter.getDefaultAdapter(this);
+        mButton=(Button)findViewById(R.id.button2);
+
         if (mNfcAdapter == null) {
             // Stop here, we definitely need NFC
             Toast.makeText(this, "This device doesn't support NFC.", Toast.LENGTH_LONG).show();
@@ -138,9 +148,14 @@ public class Nfc extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(String result) {
+            boolean f=true;
             if (result != null) {
-                mTextView.setText("Read content: " + result);
                 Toast.makeText(getApplicationContext(), result, Toast.LENGTH_LONG).show();
+                String[] parts = result.split("#");
+                mDatabase.child("items").child(parts[3]).setValue(parts[2]);
+                Intent intent = new Intent(Nfc.this, CheckoutActivity.class);
+                startActivity(intent);
+
             }
         }
     }
