@@ -9,6 +9,7 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.firebase.database.DatabaseReference;
 import com.simplify.android.sdk.Simplify;
 
 
@@ -51,6 +52,7 @@ public class Welcome extends AppCompatActivity {
     public static String temp=null;
     private TextView mText;
     private static String currentAmmount="Waiting for amount to load";
+    private static DatabaseReference mDatabase;
 
 
 
@@ -99,6 +101,7 @@ public class Welcome extends AppCompatActivity {
             }
             protected void onPostExecute(Void result){
                 mText.setText(currentAmmount);
+
             }
 
         }.execute();
