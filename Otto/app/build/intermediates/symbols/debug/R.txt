@@ -813,7 +813,7 @@ int drawable simplify_mastercard 0x7f02009a
 int drawable simplify_number 0x7f02009b
 int drawable simplify_visa 0x7f02009c
 int drawable simplify_zip 0x7f02009d
-int id Circle 0x7f0f008d
+int id Circle 0x7f0f008c
 int id action0 0x7f0f009e
 int id action_bar 0x7f0f0072
 int id action_bar_activity_content 0x7f0f0000
@@ -844,8 +844,8 @@ int id auto 0x7f0f002d
 int id basic 0x7f0f0015
 int id beginning 0x7f0f003f
 int id bottom 0x7f0f002e
-int id btn 0x7f0f0084
-int id button2 0x7f0f0089
+int id btn 0x7f0f0083
+int id button2 0x7f0f0088
 int id buttonPanel 0x7f0f0059
 int id cancel_action 0x7f0f009f
 int id center 0x7f0f002f
@@ -877,7 +877,7 @@ int id enterAlwaysCollapsed 0x7f0f0022
 int id exitUntilCollapsed 0x7f0f0023
 int id expand_activities_button 0x7f0f0053
 int id expanded_menu 0x7f0f0068
-int id fab 0x7f0f008b
+int id fab 0x7f0f008a
 int id fill 0x7f0f003c
 int id fill_horizontal 0x7f0f003d
 int id fill_vertical 0x7f0f0033
@@ -906,11 +906,11 @@ int id middle 0x7f0f0040
 int id mini 0x7f0f003e
 int id month_picker 0x7f0f00b6
 int id multiply 0x7f0f0027
-int id myImageView 0x7f0f008c
-int id my_textview 0x7f0f0085
+int id myImageView 0x7f0f008b
+int id my_textview 0x7f0f0084
 int id navigation_header_container 0x7f0f0095
 int id never 0x7f0f0046
-int id nobutton 0x7f0f0088
+int id nobutton 0x7f0f0087
 int id none 0x7f0f0017
 int id normal 0x7f0f0019
 int id notification_background 0x7f0f00a9
@@ -971,7 +971,7 @@ int id submenuarrow 0x7f0f006c
 int id submit_area 0x7f0f007d
 int id tabMode 0x7f0f001a
 int id text 0x7f0f00b0
-int id text1 0x7f0f0086
+int id text1 0x7f0f0085
 int id text2 0x7f0f00ae
 int id textSpacerNoButtons 0x7f0f0060
 int id textSpacerNoTitle 0x7f0f005f
@@ -982,13 +982,13 @@ int id time 0x7f0f00a6
 int id title 0x7f0f0058
 int id titleDividerNoCustom 0x7f0f0067
 int id title_template 0x7f0f0065
-int id toolbar 0x7f0f008a
+int id toolbar 0x7f0f0089
 int id top 0x7f0f0037
 int id topPanel 0x7f0f0064
 int id touch_outside 0x7f0f0091
 int id transition_current_scene 0x7f0f000b
 int id transition_scene_layoutid_cache 0x7f0f000c
-int id txt 0x7f0f0083
+int id txt 0x7f0f008d
 int id up 0x7f0f000d
 int id useLogo 0x7f0f0020
 int id view_offset_helper 0x7f0f000e
@@ -998,7 +998,7 @@ int id withText 0x7f0f0047
 int id wrap 0x7f0f0011
 int id wrap_content 0x7f0f002c
 int id year_picker 0x7f0f00b7
-int id yesbutton 0x7f0f0087
+int id yesbutton 0x7f0f0086
 int integer abc_config_activityDefaultDur 0x7f0c0001
 int integer abc_config_activityShortDur 0x7f0c0002
 int integer app_bar_elevation_anim_duration 0x7f0c0003

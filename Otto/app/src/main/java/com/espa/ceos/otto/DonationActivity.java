@@ -34,6 +34,7 @@ public class DonationActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i1 = new Intent(DonationActivity.this, CharitiesActivity.class);
                 i1.putExtra("donation",donation);
+                i1.putExtra("payment",price);
                 startActivity(i1);
             }
         });

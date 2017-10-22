@@ -62,7 +62,7 @@ public class NoDonationActivity extends AppCompatActivity {
 
                 try {
                     HttpPost httpPost = new HttpPost("https://apis.nbg.gr/public/nbgapis/obp/v3.0.1/banks/DB173089-A8FE-43F1-8947-F1B2A8699829/accounts/33491949-04d8-440b-8b98-db30afa14585/owner/transaction-request-types/sepa/transaction-requests");
-                    httpPost.setEntity(new StringEntity("{\"to\":{\"iban\":\"GR4501101030000010348012377\"},\"charge_policy\":\"OUR\",\"value\":{\"currency\":\"EUR\",\"amount\":"+amount+"},\"description\":\"Payment done\"}"));
+                    httpPost.setEntity(new StringEntity("{\"to\":{\"iban\":\"GR4501101030000010348012377\"},\"charge_policy\":\"OUR\",\"value\":{\"currency\":\"EUR\",\"amount\":"+amount+"},\"description\":\"New payment\"}"));
                     httpPost.setHeader("Accept", "application/json");
                     httpPost.setHeader("Content-type", "application/json");
                     httpPost.setHeader("sandbox_id", "darasgiannis");

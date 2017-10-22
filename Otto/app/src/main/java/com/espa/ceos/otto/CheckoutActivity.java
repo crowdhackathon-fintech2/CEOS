@@ -38,7 +38,7 @@ public class CheckoutActivity extends AppCompatActivity {
         mButton=(Button)findViewById(R.id.btn);
 
         mDatabase = FirebaseDatabase.getInstance().getReference("items");
-        mTxt=(TextView)findViewById(R.id.txt);
+
         mDatabase.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
@@ -52,7 +52,7 @@ public class CheckoutActivity extends AppCompatActivity {
                 lv=(ListView) findViewById(R.id.listView2);
                 adapter=new ArrayAdapter<String>(getApplicationContext(),android.R.layout.simple_list_item_1,productList);
                 lv.setAdapter(adapter);
-                mTxt.setText(Double.toString(sum));
+
             }
 
             @Override

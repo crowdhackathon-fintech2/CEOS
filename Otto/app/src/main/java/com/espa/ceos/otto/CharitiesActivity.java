@@ -13,6 +13,7 @@ import android.widget.ListView;
 
 public class CharitiesActivity extends AppCompatActivity {
     private double amount;
+    private double amount2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +22,7 @@ public class CharitiesActivity extends AppCompatActivity {
         ListView lv = (ListView) findViewById(R.id.listView1);
         Intent intent=getIntent();
         amount=intent.getDoubleExtra("donation",0);
+        amount2=intent.getDoubleExtra("payment",0);
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
@@ -32,6 +34,7 @@ public class CharitiesActivity extends AppCompatActivity {
                 intent.putExtra("id",id);
                 intent.putExtra("position", position);
                 intent.putExtra("amount",amount);
+                intent.putExtra("amount2",amount2);
                 startActivity(intent);
 
 

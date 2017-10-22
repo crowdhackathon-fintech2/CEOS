@@ -3263,7 +3263,7 @@ containing a value of this type.
         public static final int simplify_zip=0x7f02009d;
     }
     public static final class id {
-        public static final int Circle=0x7f0f008d;
+        public static final int Circle=0x7f0f008c;
         public static final int action0=0x7f0f009e;
         public static final int action_bar=0x7f0f0072;
         public static final int action_bar_activity_content=0x7f0f0000;
@@ -3294,8 +3294,8 @@ containing a value of this type.
         public static final int basic=0x7f0f0015;
         public static final int beginning=0x7f0f003f;
         public static final int bottom=0x7f0f002e;
-        public static final int btn=0x7f0f0084;
-        public static final int button2=0x7f0f0089;
+        public static final int btn=0x7f0f0083;
+        public static final int button2=0x7f0f0088;
         public static final int buttonPanel=0x7f0f0059;
         public static final int cancel_action=0x7f0f009f;
         public static final int center=0x7f0f002f;
@@ -3327,7 +3327,7 @@ containing a value of this type.
         public static final int exitUntilCollapsed=0x7f0f0023;
         public static final int expand_activities_button=0x7f0f0053;
         public static final int expanded_menu=0x7f0f0068;
-        public static final int fab=0x7f0f008b;
+        public static final int fab=0x7f0f008a;
         public static final int fill=0x7f0f003c;
         public static final int fill_horizontal=0x7f0f003d;
         public static final int fill_vertical=0x7f0f0033;
@@ -3356,11 +3356,11 @@ containing a value of this type.
         public static final int mini=0x7f0f003e;
         public static final int month_picker=0x7f0f00b6;
         public static final int multiply=0x7f0f0027;
-        public static final int myImageView=0x7f0f008c;
-        public static final int my_textview=0x7f0f0085;
+        public static final int myImageView=0x7f0f008b;
+        public static final int my_textview=0x7f0f0084;
         public static final int navigation_header_container=0x7f0f0095;
         public static final int never=0x7f0f0046;
-        public static final int nobutton=0x7f0f0088;
+        public static final int nobutton=0x7f0f0087;
         public static final int none=0x7f0f0017;
         public static final int normal=0x7f0f0019;
         public static final int notification_background=0x7f0f00a9;
@@ -3421,7 +3421,7 @@ containing a value of this type.
         public static final int submit_area=0x7f0f007d;
         public static final int tabMode=0x7f0f001a;
         public static final int text=0x7f0f00b0;
-        public static final int text1=0x7f0f0086;
+        public static final int text1=0x7f0f0085;
         public static final int text2=0x7f0f00ae;
         public static final int textSpacerNoButtons=0x7f0f0060;
         public static final int textSpacerNoTitle=0x7f0f005f;
@@ -3432,13 +3432,13 @@ containing a value of this type.
         public static final int title=0x7f0f0058;
         public static final int titleDividerNoCustom=0x7f0f0067;
         public static final int title_template=0x7f0f0065;
-        public static final int toolbar=0x7f0f008a;
+        public static final int toolbar=0x7f0f0089;
         public static final int top=0x7f0f0037;
         public static final int topPanel=0x7f0f0064;
         public static final int touch_outside=0x7f0f0091;
         public static final int transition_current_scene=0x7f0f000b;
         public static final int transition_scene_layoutid_cache=0x7f0f000c;
-        public static final int txt=0x7f0f0083;
+        public static final int txt=0x7f0f008d;
         public static final int up=0x7f0f000d;
         public static final int useLogo=0x7f0f0020;
         public static final int view_offset_helper=0x7f0f000e;
@@ -3448,7 +3448,7 @@ containing a value of this type.
         public static final int wrap=0x7f0f0011;
         public static final int wrap_content=0x7f0f002c;
         public static final int year_picker=0x7f0f00b7;
-        public static final int yesbutton=0x7f0f0087;
+        public static final int yesbutton=0x7f0f0086;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0c0001;

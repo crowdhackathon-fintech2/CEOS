@@ -52,14 +52,14 @@ public class Nfc extends AppCompatActivity {
 
         if (mNfcAdapter == null) {
             // Stop here, we definitely need NFC
-            Toast.makeText(this, "This device doesn't support NFC.", Toast.LENGTH_LONG).show();
+//            Toast.makeText(this, "This device doesn't support NFC.", Toast.LENGTH_LONG).show();
 
         }
 
         if (!mNfcAdapter.isEnabled()) {
-            Toast.makeText(this, "Disabled.", Toast.LENGTH_LONG).show();
+//            Toast.makeText(this, "Disabled.", Toast.LENGTH_LONG).show();
         } else {
-            Toast.makeText(this, "Working", Toast.LENGTH_LONG).show();
+//            Toast.makeText(this, "Working", Toast.LENGTH_LONG).show();
         }
         handleIntent(getIntent());
 
@@ -150,7 +150,7 @@ public class Nfc extends AppCompatActivity {
         protected void onPostExecute(String result) {
             boolean f=true;
             if (result != null) {
-                Toast.makeText(getApplicationContext(), result, Toast.LENGTH_LONG).show();
+//                Toast.makeText(getApplicationContext(), result, Toast.LENGTH_LONG).show();
                 String[] parts = result.split("#");
                 mDatabase.child("items").child(parts[3]).setValue(parts[2]);
                 Intent intent = new Intent(Nfc.this, CheckoutActivity.class);
