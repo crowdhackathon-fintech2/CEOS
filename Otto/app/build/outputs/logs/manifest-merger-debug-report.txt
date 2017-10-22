@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:1-60:12
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:2:1-64:12
 	package
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml
@@ -32,7 +32,7 @@ ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:9:9-44
 application
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:12:5-58:19
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:12:5-62:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/giannis/.android/build-cache/b11bac32c20fcc1cc46f1ee1de975aa9039c54f9/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] /home/giannis/.android/build-cache/15eb3b6c5057480411241941198494f00e700053/output/AndroidManifest.xml:26:5-20
@@ -145,9 +145,17 @@ ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:56:19-50
 activity#com.espa.ceos.otto.CheckoutActivity
-ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:57:9-63
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:57:9-54
 	android:name
 		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:57:19-51
+activity#com.espa.ceos.otto.NoDonationActivity
+ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:58:9-61:68
+	android:label
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:60:13-63
+	android:theme
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml:59:13-47
 uses-sdk
 INJECTED from /home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/giannis/.android/build-cache/c97d3b51901cf9d551cc9785d2a6c5aa2aa4ac13/output/AndroidManifest.xml:5:5-7:41

@@ -12,12 +12,15 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 public class CharitiesActivity extends AppCompatActivity {
+    private double amount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_charities);
         ListView lv = (ListView) findViewById(R.id.listView1);
+        Intent intent=getIntent();
+        amount=intent.getDoubleExtra("donation",0);
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
@@ -25,10 +28,10 @@ public class CharitiesActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
                 // getting values from selected ListItem
-                Log.i("HelloListView", "You clicked Item: " + id );
                 Intent intent = new Intent(CharitiesActivity.this,ChoicesActivity.class);
                 intent.putExtra("id",id);
                 intent.putExtra("position", position);
+                intent.putExtra("amount",amount);
                 startActivity(intent);
 
 

@@ -54,7 +54,11 @@
         <activity android:name=".DonationActivity" />
         <activity android:name=".CharitiesActivity" />
         <activity android:name=".ChoicesActivity" />
-        <activity android:name=".CheckoutActivity"></activity>
+        <activity android:name=".CheckoutActivity" />
+        <activity
+            android:name=".NoDonationActivity"
+            android:label="@string/title_activity_no_donation"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

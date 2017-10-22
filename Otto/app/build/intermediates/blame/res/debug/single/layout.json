@@ -4,6 +4,10 @@
         "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/C:\\Users\\Mary P\\.android\\build-cache\\07329e45466a96901d91f4e845cb1b40a09cd1a8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/activity_no_donation.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/layout/activity_no_donation.xml"
+    },
+    {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout/notification_template_media.xml"
     },
@@ -178,6 +182,10 @@
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/giannis/.android/build-cache/4ed6bb6388117005584ae69fdc8876b462c5da78/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/content_no_donation.xml",
+        "source": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/src/main/res/layout/content_no_donation.xml"
     },
     {
         "merged": "/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",

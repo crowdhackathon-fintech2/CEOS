@@ -75,6 +75,10 @@
         <activity android:name="com.espa.ceos.otto.CharitiesActivity" />
         <activity android:name="com.espa.ceos.otto.ChoicesActivity" />
         <activity android:name="com.espa.ceos.otto.CheckoutActivity" />
+        <activity
+            android:name="com.espa.ceos.otto.NoDonationActivity"
+            android:label="@string/title_activity_no_donation"
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

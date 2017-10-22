@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Otto</string>
     <string name="title_activity_nfc">Nfc</string>
+    <string name="title_activity_no_donation">NoDonationActivity</string>
 </resources>

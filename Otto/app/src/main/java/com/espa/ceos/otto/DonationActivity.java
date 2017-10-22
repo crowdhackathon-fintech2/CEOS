@@ -22,13 +22,13 @@ public class DonationActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_donation);
         TextView text1 = (TextView)findViewById(R.id.text1);
-        ImageButton yesbutton= (ImageButton)findViewById(R.id.yesbutton);
+        Button yesbutton= (Button)findViewById(R.id.yesbutton);
         Button nobutton= (Button)findViewById(R.id.nobutton);
 
 
-        price =getIntent().getDoubleExtra("PAYMENT",0.0);
-        donation =price - (int)price;
-        text1.setText("Your total is "+ price +"."+"Would you like to donate" + donation + "to charity?");
+        price =getIntent().getDoubleExtra("hash",0);
+        donation =  (Math.floor(price)+1-price);
+        text1.setText("Your total is "+ (float) price +"."+"Would you like to donate " + (float)donation + " to charity?");
         yesbutton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent i1 = new Intent(DonationActivity.this, CharitiesActivity.class);
@@ -39,7 +39,9 @@ public class DonationActivity extends AppCompatActivity {
 
         nobutton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Toast.makeText(DonationActivity.this, "Ok!Have a good day!", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(DonationActivity.this, NoDonationActivity.class);
+                intent.putExtra("no",price);
+                startActivity(intent);
             }
         });
 
