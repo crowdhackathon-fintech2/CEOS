@@ -1,8 +1,6 @@
 #server-side script
 from config import *
 
-def get_current_purchased_asset():
-	return str(firebase.get('/current_asset', None))
 	
 def post_last_transaction(): 
 	print 'transaction posted'
@@ -19,20 +17,28 @@ products = {
 global transaction_counter
 transaction_counter = 1
 
+
 try:
 	for product in products.keys():
-		blockchain.issue(server_address, product, products[product])
+		blockchain.issue(server_address, product, products[product], 0.01)
 except:		
 	print 'Products already initialized'
 finally:
 	global assets
 	assets = blockchain.listassets()
 	print assets
+
 	
 def transaction_validator(blockchain): 
-	prev_asset = get_current_purchased_asset()
+	print 'Initial status'
 	prev_wallettransactions = blockchain.listwallettransactions()
+	for tx in prev_wallettransactions:
+		print tx['txid']
 	
+	for w in wt:
+		print w['txid']
+		firebase.put('/','transactions',{w['txid']:1})	
+
 	while True:
 		while checkoutGetter():
 			assets = itemsGetter()
@@ -41,28 +47,40 @@ def transaction_validator(blockchain):
 					blockchain.sendasset(client_address, curr_asset, products[curr_asset])
 				except:
 					print 'Error'
+					checkoutSetter(0)
 				finally:
-					print blockchain.gettotalbalances()
-				
+					print 'Balances'
+
+					balances =  blockchain.gettotalbalances()
+					for b in balances:
+						print b
+
+					print 'Wallet transactions'					
+					wt =  blockchain.listwallettransactions()
+					for w in wt:
+						print w['txid']
+						firebase.put('/','transactions',{w['txid']:1})
+
+
+							
 				# validate
 				# check last n transactions
-				number_of_transactions = len(assets)
-				curr_wallettransactions = blockchain.listwallettransactions()
-				i = -1
-				tx = curr_wallettransactions[-i]
-				while abs(i) <= n:
-					tx = curr_transactions[-i]
-					if tx['valid']:	
-						print 'Transaction validated'
-						print current_trans
-						print 'Posting to firebase'
-						post_last_transaction()
-						transaction_counter += 1
-					else:
-						print 'something went wrong'
-						break
-					i -= 1 
-				resetDb()
+				#number_of_transactions = len(assets)
+				#curr_wallettransactions = blockchain.listwallettransactions()
+				#i = -1
+				#tx = curr_wallettransactions[-i]
+				#while abs(i) <= n:
+				#	tx = curr_transactions[-i]
+				#	if tx['valid']:	
+				#		print 'Transaction validated'
+				#		print current_trans
+				#		print 'Posting to firebase'
+				#		transaction_counter += 1
+				#	else:
+				#		print 'something went wrong'
+				#		break
+				#	i -= 1 
+				#resetDb()
 				
 				
 		time.sleep(1)
