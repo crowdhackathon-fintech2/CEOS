@@ -15,9 +15,9 @@ import android.widget.Toast;
 
 public class DonationActivity extends AppCompatActivity {
 
+     double price;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        final double price;
         final double donation;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_donation);
@@ -27,6 +27,7 @@ public class DonationActivity extends AppCompatActivity {
 
 
         price =getIntent().getDoubleExtra("hash",0);
+
         donation =  (Math.floor(price)+1-price);
         text1.setText("Your total is "+ (float) price +"."+"Would you like to donate " + (float)donation + " to charity?");
         yesbutton.setOnClickListener(new View.OnClickListener() {
@@ -40,7 +41,7 @@ public class DonationActivity extends AppCompatActivity {
         nobutton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(DonationActivity.this, NoDonationActivity.class);
-                intent.putExtra("no",price);
+                intent.putExtra("key",price);
                 startActivity(intent);
             }
         });

@@ -45,14 +45,15 @@ public class NoDonationActivity extends AppCompatActivity {
     private static final String providerId="NBG.gr";
     private static final String bankId="DB173089-A8FE-43F1-8947-F1B2A8699829";
     private String results;
-    public static String temp=null;
-    double amount;
+    public double amount;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Intent temp=getIntent();
-        final float amount=temp.getFloatExtra("no",0);
+        Intent intent = getIntent();
+        amount=intent.getDoubleExtra("key",0);
+
         new AsyncTask<Void, Void, Void>() {
 
             @Override
@@ -79,6 +80,12 @@ public class NoDonationActivity extends AppCompatActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
+
+
+                return null;
+
+            }
+            protected void onPostExecute(Void result){
                 mDatabase = FirebaseDatabase.getInstance().getReference("unlock/value");
                 mDatabase.addValueEventListener(new ValueEventListener() {
                     @Override
@@ -93,11 +100,6 @@ public class NoDonationActivity extends AppCompatActivity {
 
                     }
                 });
-
-
-
-                return null;
-
             }
         }.execute();
 

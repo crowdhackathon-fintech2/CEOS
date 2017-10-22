@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 22 15:32:57 EEST 2017
+#Sun Oct 22 16:04:48 EEST 2017
 210.set=ANDROID_RESOURCE
 282.file=/home/giannis/Documents/Coding/ShopAndGo/Otto/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/design_ic_visibility_off.png
 14.set=ANDROID_RESOURCE

@@ -11,6 +11,12 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -23,7 +29,7 @@ import cz.msebera.android.httpclient.impl.client.DefaultHttpClient;
 
 public class ChoicesActivity extends AppCompatActivity {
 
-
+    private DatabaseReference mDatabase;
     private static final String donationIban="GR4501101030000010348012377";
     private static final String transactionIban="GR0901109720000097226400154";
     private static final String sandboxId="darasgiannis";
@@ -89,6 +95,20 @@ public class ChoicesActivity extends AppCompatActivity {
 
             }
             protected void onPostExecute(Void result){
+                mDatabase = FirebaseDatabase.getInstance().getReference("unlock/value");
+                mDatabase.addValueEventListener(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot dataSnapshot) {
+                        mDatabase.setValue(1);
+                        Intent intent=new Intent(ChoicesActivity.this,Welcome.class);
+                        startActivity(intent);
+                    }
+
+                    @Override
+                    public void onCancelled(DatabaseError databaseError) {
+
+                    }
+                });
                 Intent intent=new Intent(ChoicesActivity.this,Welcome.class);
                 startActivity(intent);
             }
