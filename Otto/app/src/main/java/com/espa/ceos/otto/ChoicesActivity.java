@@ -113,7 +113,7 @@ public class ChoicesActivity extends AppCompatActivity {
             }
             protected void onPostExecute(Void result){
                 mDatabase = FirebaseDatabase.getInstance().getReference("unlock/value");
-                mDatabase.addValueEventListener(new ValueEventListener() {
+                mDatabase.addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         mDatabase.setValue(1);
