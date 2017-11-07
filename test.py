@@ -1,5 +1,4 @@
 #!/usr/bin/python
-from daemon import runner
 from firebase import firebase
 import threading
 import sys, time
@@ -105,11 +104,12 @@ class Locker:
 	def resume(self):
 		self.running = True
 
-daemonized = True
+daemonized = False
 
 print 'Mode is {}'.format(mode)
 locker = Locker()
 if daemonized:
+	from daemon import runner
 	print 'Started as daemon'
 	daemon_runner = runner.DaemonRunner(locker)
 	daemon_runner.do_action()
